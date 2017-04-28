@@ -1,0 +1,15 @@
+﻿#wrapper
+{
+    text-align: center;
+    width: 30%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.jumbotron { background-color: #e0d09b; }
+
+#chooseFile
+{
+    border-radius: 10px;
+    background-color: #c2bdbd;
+}
